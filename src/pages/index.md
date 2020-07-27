@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Welcome to
-image: /img/cafe.jpg
+image: /img/cafe3.jpg
 heading: " The Sweet Splash"
 subheading: The Sweet Splash
 mainpitch:
