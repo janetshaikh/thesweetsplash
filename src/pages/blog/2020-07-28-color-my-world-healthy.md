@@ -53,6 +53,6 @@ tags:
 ---
 Mexican Inspired Soup
 
-![](blob:https://thesweetsplash.com/fe405ecf-523d-493c-a473-50553158d88a)
+![](/img/mexican-soup.jpg)
 
 <!--EndFragment-->
